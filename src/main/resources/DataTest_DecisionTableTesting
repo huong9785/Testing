@@ -1,0 +1,17 @@
+0, 1, 1, Invalid error
+1, 0, 1, Invalid error
+1, 1, 0, Invalid error
+101, 1, 1, Invalid error
+1, 101, 1, Invalid error
+1, 1, 101, Invalid error
+2, 1, 1, Not a triangle
+1, 2, 1, Not a triangle
+1, 1, 2, Not a triangle
+5, 5, 8, Isosceles triangle
+8, 5, 5, Isosceles triangle
+5, 8, 5, Isosceles triangle
+5, 3, 4, Right triangle
+3, 5, 4, Right triangle
+3, 4, 5, Right triangle
+10, 10, 10, Equilateral triangle
+5, 8, 9, Triangle

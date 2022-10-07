@@ -1,0 +1,19 @@
+0, 50, 50, Invalid error
+1, 50, 50, Isosceles triangle
+2, 50, 50, Isosceles triangle
+50, 50, 50, Equilateral triangle
+99, 50, 50, Isosceles triangle
+100, 50, 50, Not a triangle
+101, 50, 50, Invalid error
+50, 0, 50, Invalid error
+50, 1, 50, Isosceles triangle
+50, 2, 50, Isosceles triangle
+50, 99, 50, Isosceles triangle
+50, 100, 50, Not a triangle
+50, 101, 50, Invalid error
+50, 50, 0, Invalid error
+50, 50, 1, Isosceles triangle
+50, 50, 2, Isosceles triangle
+50, 50, 99, Isosceles triangle
+50, 50, 100, Not a triangle
+50, 50,101, Invalid error
