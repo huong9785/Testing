@@ -6,14 +6,8 @@ public class Triangle {
         if (a >= b + c || b >= a + c || c >= a + b) {
             return "Not a triangle";
         }
-        if (a * a == b * b + c * c
-                || b * b == a * a + c * c
-                || c * c == a * a + b * b) {
-            if (a == b || b == c || c == a) {
-                return "Isosceles right triangle";
-            } else {
-                return "Right triangle";
-            }
+        if (a * a == b * b + c * c || b * b == a * a + c * c || c * c == a * a + b * b) {
+            return "Right triangle";
         }
         if (a == b && b == c) {
             return "Equilateral triangle";
